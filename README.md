@@ -1,2 +1,15 @@
-# Countries-Dataset-Project
-This project performs data extraction and analysis on countries.csv using Python, NumPy, and Pandas. It includes data cleaning, filtering, aggregation, and feature extraction to explore country-level information. The project highlights practical skills in working with structured datasets.
+# Countries Feature Extraction Project
+
+## Overview
+This project performs feature extraction on the countries.csv dataset using Python. It focuses on extracting meaningful country-level features through data filtering and transformation.
+
+## Key Work
+- Dataset loading
+- Feature extraction
+- Data filtering and transformation
+- Numerical operations using NumPy and Pandas
+
+## Tech Stack
+- Python
+- NumPy
+- Pandas
